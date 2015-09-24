@@ -1,0 +1,20 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"480",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"bgColor":"800080FF",
+				"x":"253",
+				"width":"68",
+				"y":"193",
+				"id":"do_ALayout_1",
+				"type":"do_ALayout",
+				"height":"145"
+			}
+		],
+		"height":"854"
+	}
+}
