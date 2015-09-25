@@ -32,14 +32,4 @@ list_listdata.addData([
                   
      ]);
   listview.refreshItems();
-listview.on("pull", function(data) {
-	    /**
-	     * @此事件将会多次执行.
-	     * @state == 0 : pull动作开始
-	     * @state == 1 : pull动作持续中
-	     * @state == 2 : pull动作结束
-	      */
-	   
-	    if (data.state !== 2) return;
-	    this.rebound();
-	});
+ 
