@@ -5,6 +5,7 @@
 		"width":"480",
 		"y":"0",
 		"id":"bg_layout",
+		"bgImage":"source://image/bg.jpg",
 		"type":"do_ALayout",
 		"views":[
 			{

@@ -3,6 +3,7 @@
 		"x":"0",
 		"width":"480",
 		"y":"0",
+		"id":"bg_layout",
 		"type":"do_ALayout",
 		"views":[
 			{

@@ -1,7 +1,6 @@
 {
 	"RootView":{
 		"width":"480",
-		"y":"-1",
 		"id":"bg_layout",
 		"type":"do_ALayout",
 		"views":[
@@ -392,6 +391,26 @@
 					}
 				],
 				"height":"66"
+			},
+			{
+				"width":"480",
+				"id":"do_ALayout_18",
+				"type":"do_ALayout",
+				"views":[
+					{
+						"textAlign":"center",
+						"width":"217",
+						"x":"124",
+						"y":"19",
+						"fontSize":"22",
+						"id":"do_Label_14",
+						"text":"我",
+						"type":"do_Label",
+						"fontColor":"000000FF",
+						"height":"35"
+					}
+				],
+				"height":"70"
 			}
 		],
 		"height":"763"

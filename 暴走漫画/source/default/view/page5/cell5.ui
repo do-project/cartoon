@@ -7,6 +7,7 @@
 		"type":"do_ALayout",
 		"views":[
 			{
+				"bgColor":"FFFFFFFF",
 				"templates":"source://view/page5/cell5child.ui",
 				"x":"1",
 				"width":"478",
@@ -14,26 +15,6 @@
 				"id":"do_ListView_1",
 				"type":"do_ListView",
 				"height":"777"
-			},
-			{
-				"width":"480",
-				"id":"do_ALayout_1",
-				"type":"do_ALayout",
-				"views":[
-					{
-						"textAlign":"center",
-						"width":"217",
-						"x":"124",
-						"y":"19",
-						"fontSize":"22",
-						"id":"do_Label_1",
-						"text":"我",
-						"type":"do_Label",
-						"fontColor":"000000FF",
-						"height":"35"
-					}
-				],
-				"height":"70"
 			}
 		],
 		"height":"778"
