@@ -35,5 +35,5 @@ bg_layout.add("wsdas", "source://view/page4/secondpage/paper.ui", 0, 0);
 var  paper=ui("do_ALayout_6");
 paper.on("touch",function(){
  
-bg_layout.add("ds", "source://view/page4/secondpage/paper.ui", 0, 0);
+bg_layout.add("ds", "source://view/page4/secondpage/talk.ui", 0, 0);
    	});

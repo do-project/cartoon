@@ -87,6 +87,7 @@
 				"height":"40"
 			},
 			{
+				"templates":"source://view/page4/secondpage/shopcell/cell.ui",
 				"width":"480",
 				"y":"123",
 				"id":"do_ListView_1",
