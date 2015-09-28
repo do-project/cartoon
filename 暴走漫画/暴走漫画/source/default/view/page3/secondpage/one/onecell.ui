@@ -1,0 +1,10 @@
+{
+	"RootView":{
+		"border":"C0C0C0FF,1,1",
+		"x":"10",
+		"width":"460",
+		"type":"do_ALayout",
+		"views":[],
+		"height":"300"
+	}
+}
