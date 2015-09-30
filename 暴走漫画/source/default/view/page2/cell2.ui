@@ -1,0 +1,33 @@
+{
+	"RootView":{
+		"height":"772",
+		"views":[
+			{
+				"id":"do_TextBox_1",
+				"fontColor":"C0C0C0FF",
+				"text":" 暴走大事件",
+				"height":"34",
+				"maxLength":"3",
+				"width":"406",
+				"fontSize":"20",
+				"type":"do_TextBox",
+				"border":"C0C0C0FF,1,10",
+				"y":"12",
+				"x":"32"
+			},
+			{
+				"id":"do_ListView_1",
+				"height":"722",
+				"templates":"source://view/page2/cell2child.ui,source://view/page2/cell2child1.ui",
+				"width":"477",
+				"type":"do_ListView",
+				"y":"50",
+				"x":"1"
+			}
+		],
+		"width":"480",
+		"type":"do_ALayout",
+		"y":"0",
+		"x":"0"
+	}
+}
